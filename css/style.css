@@ -1,0 +1,11 @@
+.header{
+    margin-top: 80px;
+}
+
+/* #4BB3F5 */
+
+/* membuat agar card memiliki tinggi yang sama */
+#services img{
+    height: 150px;
+}
+
